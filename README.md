@@ -1,6 +1,6 @@
-# test_flutter_app
+# type_battle
 
-A new Flutter application.
+A new Flutter project.
 
 ## Getting Started
 
