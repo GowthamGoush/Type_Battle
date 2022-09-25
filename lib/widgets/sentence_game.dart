@@ -74,6 +74,8 @@ class _SentenceGameState extends State<SentenceGame> {
           horizontal: 20,
         ),
         child: Wrap(
+          crossAxisAlignment: WrapCrossAlignment.center,
+          spacing: 10.0,
           textDirection: TextDirection.ltr,
           children: [
             getTypedWords(game.gameState['words'], playerMe),
