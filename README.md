@@ -1,6 +1,6 @@
-# type_battle
+# Type Battle
 
-A new Flutter project.
+A multiplayer cross-platform application to battle against each other by typing quotes from books with a real-time leader board.
 
 ## Getting Started
 
